@@ -1,5 +1,5 @@
 // Class definition
-class Culculation {
+class Calculation {
     constructor(firstPara, secondPara) {
         this.firstP = firstPara;
         this.secondP = secondPara;
