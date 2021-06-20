@@ -21,7 +21,7 @@ class Calculation {
 }
 
 // Instantiate
-let calc = new Culculation(32, 56);
+let calc = new Calculation(32, 56);
 console.log("Addition : " + calc.getAdd());
 console.log("Subtraction : " + calc.getSub());
 console.log("Multiplication : " + calc.getMul());
